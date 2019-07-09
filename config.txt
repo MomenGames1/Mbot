@@ -1,0 +1,6 @@
+owner=425916620339281941
+prefix=$
+game=Listening to cool music
+stayinchannel=true
+songinstatus=true
+token=NDcwODg3MzQyODk5NTkzMjE2.XSTFLA.j_UJ_WAdO0zfe_0f8I5p2VSVKJI
